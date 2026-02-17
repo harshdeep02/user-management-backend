@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "json-server": "json-server --watch ./Db/db.json --port 5000",
     "start": "json-server ./Db/db.json --host 0.0.0.0 --port $PORT"
-
   },
   "author": "",
   "license": "ISC",
