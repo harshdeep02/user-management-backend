@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Amit",
+      "lastName": "Pathak",
+      "phone": "9871237891",
+      "email": "amit@gmail.com"
+    },
+    {
+      "id": "2",
+      "firstName": "Ravi",
+      "lastName": "Dube",
+      "phone": "9873789123",
+      "email": "ravi@gmail.com"
+    },
+    {
+      "id": "3",
+      "firstName": "Rohit",
+      "lastName": "Pawar",
+      "phone": "9871239991",
+      "email": "rohit@gmail.com"
+    }
+  ]
+}
